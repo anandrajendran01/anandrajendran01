@@ -1,24 +1,10 @@
 # Hi, I'm Anand 👋
-## Program / Project Manager | Technology Delivery | Cross-functional Programs | Operational Excellence
+## Program / Project Manager | Technology Delivery | Cross-functional Programs | Program Governance | Risk & Release Management | Agile
 
 I am a Program / Project Management professional with 8+ years of technology experience, including 4+ years leading cross-functional program and technology delivery initiatives across data, analytics, enterprise applications and regulated platforms.
-I currently lead multiple concurrent initiatives across business portfolios, coordinating corss-functional teams through discovery, planning, development, testing, UAT, release, go-live, and post-lauch stabilization.
-My focus is on creating predictable delivery environments through structured planning, strong governance, stakeholder alignment, proactive risk management and data driven decision making.
+I manage initiatives from planning and execution through testing, release, go-live and stabilization, with a focus on delivery predictability, governance, stakeholder alignment, risk management, continuous improvement.
 
-## 🎯 What I Do
-- End-to-end Program & Project Management
-- Integrated project planning and scheduling
-- Roadmap, milestone and dependency management
-- Cross-functional technology delivery
-- Program governance and executive reporting
-- Risk, issue, dependency management
-- Release management and launch readiness
-- Capacity planning and delivery forecasting
-- Stakeholder and executive communication
-- Process improvement and operational excellence
-- Waterfall, Agile, Scrum, SAFe, Kanban and Dual track Agile
-
-## 📊 Delivery Impact
+## 📈 Delivery Impact
 Some examples of the outcomes I have contributed includes:
 - Improved delivery predictability from 60% to 80%+
 - Reduced delivery carry-over by 15-20%
@@ -27,19 +13,37 @@ Some examples of the outcomes I have contributed includes:
 - Improved visibility and governance through structured JIRA and Azure DevOps reporting
 - Contributed to a 15 % reduction in DevOps issue-resolution lead time
 
-## 🧠 Areas of Experience
-**Program & Project Delivery**\
-Managing initiatives from planning and requirement gathering through execution, testing, deployment , hypercare and operational stabilization.\
-**Portfolio & Program Governance**\
-Creating delivery visibility through roadmaps, milestones, KPIs, governance cadences, executive reporting and dependency management.\
-**Cross-Functional Leadership**\
-Working across Product, Business Analysis, Engineering, Data Engineering, BI, QA, Architecture, DevOps and business stakeholders.\
-**Risk & Change Management**\
-Identifying and managing delivery risks, issues, dependencies, blockers and changes while coordinating corrective actions and stakeholder decisions.\
-**Product & Demand Prioritization**\
-Experience establishing structured intake prioritization ausing JIRA Product Discovery, business value, expected benefits and RICE scoring\
-**Release & Launch Management**\
-Coordinating testing, UAT, approvals, deployment planning, launch readiness, go-live and post launch hypercare.
+## 🧠 Area of Expertise
+**Program & Project Delivery**
+- End-to-end project and program delivery
+- Integrated planning and scheduling
+- Roadmap and milestone management
+- Cross-functional execution
+- SDLC, UAT, Go-live and hypercare
+
+**Governance & Execution Control**
+- Program governance
+- Risk, issue and dependency management
+- Scope and change management
+- Capacity and delivery planning
+- Executive status reporting
+- Release and launch readiness
+
+**Leadership & Stakeholder Management**
+- Cross-functional team coordination
+- Stakeholder alignment
+- Executive communication
+- Decision facilitation
+- Conflict resolution
+- Process improvement
+
+**Portfolio & Prioritization**
+- Demand intake and prioritization
+- JIRA Product Discovery
+- Business value assessment
+- Benefits tracking
+- RICE prioritization
+- Portfolio visibility and governance
 
 ## 🧰 Tools & Ways of Working
 **Project & Delivery Tools**\
